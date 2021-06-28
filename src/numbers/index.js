@@ -22,7 +22,7 @@ const comboSum = (arr, sum) => {
       }
     }
   }
-return falsegit 
+return false 
 }
 
 module.exports = {
