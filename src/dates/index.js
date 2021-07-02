@@ -8,11 +8,12 @@ return moment().format('dddd')
 
 const calendar = () => {
   // write code for dates.calendar
-  return moment().format('MMM D, YYYY')
+  return moment().format('LL')
 }
 
 const currentTime = () => {
   // write code for dates.currentTime
+
   return moment().format('HH:MM:SS A')
 }
 
